@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : ATMEGA324P-20PU.LibPkg
+
+Section : \\puffball.labs.eait.uq.edu.au\s4464952\Desktop\ALTIUM\ATMEGA324P-20PU.lia
+    Section : PCB Library - ATMEGA324P-20PU.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ATMEGA324P-20PU On Line 322
+            Warning - 1 : Skipping Token attachedSymbol On Line 749
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ATMEGA324P-20PU.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 138
+            Warning - 1 : Skipping Token layerContents On Line 309
+        EndSection
+
+        Section : Generating SCH Library - ATMEGA324P-20PU.SchLib
+        EndSection
+    EndSection
+EndSection
